@@ -1,5 +1,4 @@
 # C4-T27-1
-# C4-T27-1
 
 #### 2. Link a un demo con el proyecto desplegado: https://c4-t27-1-jwt.herokuapp.com/
 
