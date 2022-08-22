@@ -2,9 +2,6 @@
 
 #### 2. Link a un demo con el proyecto desplegado: localhost:8181
 
-```
-* Nombre de la App: [HEROKU] (https://dashboard.heroku.com/)
-```
 #### 3. URIs endpoints.
 ```
 Pieces
@@ -27,9 +24,9 @@ POST      /api/supplies
 GET       /api/supplies/{id}
 PUT       /api/supplies/{id}
 DELETE    /api/supplies/{id}
+
+localhost:8181/login donde nos retorna el token para poder hacer las consultas
 ```
 
-#### 5. Screenshot imagen de los resultados, con get "sin id".
-localhost:8181/login donde nos retorna el token para poder hacer las consultas
 
 
