@@ -33,12 +33,12 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter  {
 	    protected void configure(AuthenticationManagerBuilder auth) throws Exception {
 	        // Creamos una cuenta de usuario por default
 	       auth.inMemoryAuthentication()
-	               .withUser("ask")
-	               .password("{noop}123")
+	               .withUser("admin")
+	               .password("{noop}1234")
 	               .roles("ADMIN");
 	       
 	       auth.inMemoryAuthentication()
-				   .withUser("jose")
+				   .withUser("oriol")
 				   .password("{noop}root")
 				   .roles("USER");
 	    }
