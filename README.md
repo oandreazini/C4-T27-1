@@ -1,12 +1,7 @@
 # C4-T27-1
 
-# C4-T27-1
-
 #### 2. Link a un demo con el proyecto desplegado: localhost:8181
 
-```
-* Nombre de la App: [HEROKU] (https://dashboard.heroku.com/)
-```
 #### 3. URIs endpoints.
 ```
 Pieces
